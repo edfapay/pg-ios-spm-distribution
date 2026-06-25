@@ -1,3 +1,7 @@
 CLAUDE.md
 .claude/
 .DS_Store
+
+# Raw XCFramework outputs + Package.swift staging from :library:spmRelease.
+# Only the .xcframework.zip files + the rewritten Package.swift at the repo root get committed.
+dist/
