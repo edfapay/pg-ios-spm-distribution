@@ -11,7 +11,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "edfapay_pg_sdk",
-            path: "edfapay_pg_sdk.release.xcframework.zip"
+            path: "edfapay_pg_sdk.debug.xcframework.zip"
         )
     ]
 )
