@@ -1,0 +1,8 @@
+framework module "edfapay_pg_sdk" {
+    umbrella header "edfapay_pg_sdk.h"
+
+    export *
+    module * { export * }
+
+    use Foundation
+}
